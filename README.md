@@ -20,12 +20,6 @@
 
 ## 🐛 バグ報告・機能要望
 
-[Discussions](https://github.com/ya-ma-n-1972/smartrandomplay/discussions)をご利用ください。
-
-- [バグ報告はこちら](https://github.com/ya-ma-n-1972/smartrandomplay/discussions/categories/バグ報告)
-- [機能要望はこちら](https://github.com/ya-ma-n-1972/smartrandomplay/discussions/categories/機能要望)
-- [質問・その他](https://github.com/ya-ma-n-1972/smartrandomplay/discussions/categories/q-a)
-
 ## 📖 更新履歴
 
 ### v1.0.0 (2024-12-XX)
